@@ -1,2 +1,0 @@
-# pr205
-activities
